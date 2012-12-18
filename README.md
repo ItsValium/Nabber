@@ -1,0 +1,4 @@
+Nabber
+======
+
+Dedicated indexer node
